@@ -1,4 +1,4 @@
-This is an ongoing list of security related resources and links.
+# This is an ongoing list of security related resources and links.
 
 ## Privacy:
 https://panopticlick.eff.org/ Site to test browser anonymity.
